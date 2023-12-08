@@ -11,9 +11,7 @@ const SingleBlog = ({ blog }: { blog: Blog }) => {
         data-wow-delay=".1s"
       >
         <Link href="/" className="relative block h-[220px] w-full">
-          <span className="absolute top-6 right-6 z-20 inline-flex items-center justify-center rounded-full bg-darkGreen py-2 px-4 text-sm font-semibold capitalize text-white">
-            {tags[0]}
-          </span>
+       
           <Image src={image} alt="image" fill />
         </Link>
         <div className="p-6 sm:p-8 md:py-8 md:px-6 lg:p-8 xl:py-8 xl:px-5 2xl:p-8">

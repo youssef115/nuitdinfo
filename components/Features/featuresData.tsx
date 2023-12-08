@@ -20,7 +20,7 @@ const featuresData: Feature[] = [
       "Réduire nos émissions de gaz à effet de serre. Cela peut être fait en passant aux énergies renouvelables, en améliorant l'efficacité énergétique et en réduisant notre consommation de combustibles fossiles.",
   },
   {
-    id: 1,
+    id: 2,
     icon: <Image src={"/images/solutionImage/2.png"} alt="" width={200} height={200} className="rounded-full"/>
     // (
     //   <svg width="40" height="40" viewBox="0 0 40 40" className="fill-current">
@@ -37,7 +37,7 @@ const featuresData: Feature[] = [
       "Aider les communautés à s'adapter aux effets du changement climatique. Cela comprend la construction de digues et de barrages pour protéger les zones côtières des inondations, la plantation d'arbres pour atténuer les effets de la sécheresse et le développement de nouvelles variétés de cultures résistantes à la chaleur.",
   },
   {
-    id: 1,
+    id: 3,
     icon: <Image src={"/images/solutionImage/3.png"} alt="" width={200} height={200} className="rounded-full"/>
     // (
     //   <svg width="40" height="40" viewBox="0 0 40 40" className="fill-current">
@@ -54,7 +54,7 @@ const featuresData: Feature[] = [
       "Investir dans la recherche et le développement de nouvelles technologies. Cela comprend le développement de nouvelles sources d'énergie renouvelable, de technologies de capture et de stockage du carbone et de technologies pour atténuer les effets des changements climatiques déjà en cours.",
   },
   {
-    id: 1,
+    id: 4,
     icon: <Image src={"/images/solutionImage/4.png"} alt="" width={200} height={200} className="rounded-full"/>
     // (
     //   <svg width="40" height="42" viewBox="0 0 40 42" className="fill-current">
@@ -71,7 +71,7 @@ const featuresData: Feature[] = [
       "Les énergies renouvelables sont de plus en plus abordables et efficaces. L'énergie solaire et éolienne sont en train de devenir les principales sources d'énergie dans de nombreux pays.",
   },
   {
-    id: 1,
+    id: 5,
     icon: <Image src={"/images/solutionImage/5.png"} alt="" width={200} height={200} className="rounded-full"/>
     // (
     //   <svg width="40" height="40" viewBox="0 0 40 40" className="fill-current">
@@ -88,7 +88,7 @@ const featuresData: Feature[] = [
       "L'efficacité énergétique est en hausse. Les maisons et les entreprises sont plus économes en énergie qu'auparavant, ce qui permet de réduire les émissions de gaz à effet de serre.",
   },
   {
-    id: 1,
+    id: 6,
     icon:<Image src={"/images/solutionImage/6.png"} alt="" width={200} height={200} className="rounded-full"/>
     //  (
     //   <svg width="40" height="45" viewBox="0 0 40 45" className="fill-current">
